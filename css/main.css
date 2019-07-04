@@ -270,6 +270,26 @@ nav ul li a {
       .fb-page {
         width: 100%;
       }
+
+      .menu-section {
+        background-image: url(../img/drink.jpg);
+        height: 50vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
+
+      .information-section table {
+        margin-top: 40px;
+      }
+
+      table {
+        color: #FFF!important;
+      }
+
+      table th {
+        border-bottom: 1px solid #2d2d2d;
+        border-top: none!important;
+      }
 }
 
 

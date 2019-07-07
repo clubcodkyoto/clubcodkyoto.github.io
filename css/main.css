@@ -290,6 +290,18 @@ nav ul li a {
         border-bottom: 1px solid #2d2d2d;
         border-top: none!important;
       }
+
+      .fa {
+        font-size: 2em;
+      }
+
+
+      /* SYSTEM PAGE */
+
+      .system-contact-section {
+        margin-top: 300px;
+      }
+
 }
 
 

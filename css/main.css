@@ -305,10 +305,20 @@ nav ul li a {
        /* CAST */
 
       .cast-section {
-        margin-top: 90px;
+        margin-top: 50px;
       }
 
-     
+      .cast-header {
+      background-image: url("../img/bg.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      height: 35vh;
+     }
+
+     .cast-header .header-text {
+      margin-top:80px;
+     }
 }
 
 

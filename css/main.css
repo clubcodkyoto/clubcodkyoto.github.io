@@ -305,7 +305,11 @@ nav ul li a {
        /* CAST */
 
       .cast-section {
-        margin-top: 90px;
+        margin-top: 60px;
+      }
+
+      .cast-header {
+        height: 30vh;
       }
 }
 

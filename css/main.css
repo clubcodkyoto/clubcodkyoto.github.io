@@ -242,7 +242,19 @@ nav ul li a {
             display: none;
       }
 
-    
+      .cast-header {
+      background-image: url("../img/bg.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      height: 35vh;
+     }
+
+     .cast-header .header-text {
+      margin-top:80px;
+     }
+}
+      
 
 
 /* MOBILE CUSTOM STYLES */

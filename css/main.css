@@ -264,6 +264,10 @@ nav ul li a {
         padding-bottom: 50px;
       }
 
+      .information-section h5 {
+        padding-top: 15px;
+      }
+
       .fa {
         font-size: 3em;
       }
@@ -316,10 +320,7 @@ nav ul li a {
         background-repeat: no-repeat;
       }
 
-    
-      .information-section table {
-        margin-top: 70px;
-      }
+  
 
       .table {
         color: #FFF!important;
